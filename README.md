@@ -82,7 +82,7 @@ CREATE TABLE PRODUTOS (
 
 Assista à demonstração dos serviços AWS, deploy e funcionamento da aplicação:
 
-[**🔗 Link do vídeo de demonstração**](INSIRA_AQUI_A_URL_DO_SEU_VIDEO)
+[**🔗 Link do vídeo de demonstração**](https://drive.google.com/file/d/1ahggTzdSGgFuxsQWS0owwDoLtrv4xFJn/view?usp=sharing)
 
 ***
 
